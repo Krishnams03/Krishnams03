@@ -8,8 +8,8 @@ I'm a Student Currently Pursueing by B.E 3rd year with 1 years of experience in 
 
 ## 💼 Work Experience
 
-- Student Intern at NICC  (Presently Working)
-- Student Intern at Sangamone Pvt Ltd.  (Presently Working)
+- VAPT Analyst at NICC  
+- Student Intern at Technologies Global Pvt Ltd.
 
 ## 🌱 Current Projects
 
@@ -31,4 +31,4 @@ You can reach me at Krishnams178@gmail.com, or on LinkedIn through www.linkedin.
 
 ## ⚡ Fun fact
 
-I am a humor creator trying to make people around me smile and anxious Learner.
+I make people around me smile.
