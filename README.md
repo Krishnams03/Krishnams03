@@ -1,8 +1,4 @@
-![Gradient Image](./Hello.png)
-<!--- <h1 align="center">Hello 👋, I'm Jimmy Ramani</h1> -->
 <h1 align="center"><img width="100%" height="auto" src="https://github.com/Krishnams03/images/blob/main/Github%20Header.png?raw=true"></h1>
-
-[![](https://visitcount.itsvg.in/api?id=jimmy-ramani-0912&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 
@@ -10,20 +6,14 @@
 <img align="right" alt="GIF" src="assets/programmer.gif" width="40%" height="80%" />
 
 - 👨‍💻 I'm on an exciting journey as a Full Stack Developer @ **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)** , where I bring creativity and innovation to the tech realm.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **What Sparks My Enthusiasm**
-  - 📊 Web Development with **ReactJS, NodeJS, ExpressJS, MongoDB**
-  - 📱 Mobile Apps Magic with **Flutter**
-  - 🌐 Creating Cloud Symphony: **AWS, Docker, Jenkins, Kubernetes, Terraform**
-- 🪖 Giving solution of problems on [Stack Overflow](https://stackoverflow.com/users/23302913/jimmy-ramani).
-- 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/jimmyramani/). Check out my contributed articles.
-- 💻 Check out my design experiments on [CodePen](https://codepen.io/jimmyramani).
-- 📙 Explore my [Resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
+- 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/). Check out my contributed articles.
+- 📙 Explore my [Resume](). Let's make it a page-turner!
 - 🚀 **Innovative Projects:** Creating something cool that adds value.
 - 📚 **Continuous Learning:** Always hungry for the next challenge.
 - 💬 Ask me about anything tech related, Need tech insights? I am happy to help!
 
 ### 📬 Find me at :
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmyramani)  [![Medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jimmyramani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jimmyramani) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23302913/jimmy-ramani) [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.ramani0912@gmail.com) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jim_my0915)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmyramani)  [![Medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jimmyramani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jimmyramani) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23302913/jimmy-ramani) [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.ramani0912@gmail.com) 
 
 
 ## 💻 Tech Stack :
@@ -41,7 +31,7 @@
     </td>
     <td align="center" width="96">
       <a href="#jimmy-ramani">
-        <img src="assets/Icons/C++.png" width="48" height="48" alt="C++" />
+        [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/)
       </a>
       <br>C++
     </td>
