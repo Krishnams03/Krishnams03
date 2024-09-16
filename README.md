@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="96">
       <a href="#jimmy-ramani">
-        [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/)
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
       </a>
       <br>C++
     </td>
