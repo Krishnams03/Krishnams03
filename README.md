@@ -85,74 +85,23 @@
 
 <table>
   <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#Krishna">
-        <img src="assets/Icons/React.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
     <td align="center" width="96">
       <a href="#Krishna">
-        <img src="assets/Icons/Flutter.png" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#Krishna" >
-        <img src="assets/Icons/Sass.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#Krishna">
-        <img src="assets/Icons/Tailwind-CSS.png" width="48" height="48" alt="Tailwind-CSS" />
+        <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
       </a>
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="#Krishna">
-        <img src="assets/Icons/Ant-Design.png" width="48" height="48" alt="Ant-Design" />
-      </a>
-      <br>Ant Design
-    </td>
-    <td align="center" width="96">
-      <a href="#Krishna">
-        <img src="assets/Icons/Material-UI.png" width="48" height="48" alt="Material-UI" />
+        <img src="https://img.icons8.com/ios/50/000000/material-ui.png" alt="Material-UI" title="Material-UI"/>
       </a>
       <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#Krishna" >
-        <img src="assets/Icons/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
       </a>
       <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
-### Backend 🏬
-
-> Specialize in Backend services like:
-
-<table>
-  <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/NodeJS.png" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/ExpressJS.png" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Firebase.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
     </td>
   </tr>
 </table>
@@ -163,83 +112,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Mongodb.png" width="48" height="48" alt="Mongodb" />
-      </a>
-      <br>MongoDB
-    </td>
     <td align="center" width="96">
       <a href="#jimmy-ramani">
         <img src="assets/Icons/mysql.png" width="48" height="48" alt="mysql" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Postgresql.png" width="48" height="48" alt="Postgresql" />
-      </a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-## DevOps 🚀
-
-> In the DevOps realm, use services like:
-
-<table>
-  <tr>
-    <td align="center" width="96" margin="10">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Amazon-Web-Services.png" width="48" height="48" alt="Amazon-Web-Services" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Docker.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Jenkins.png" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Kubernetes.png" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Terraform.png" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Vagrant.png" width="48" height="48" alt="Vagrant" />
-      </a>
-      <br>Vagrant
-    </td>
-  </tr>
-</table>
-
-### ORM Tools 🛠️
-
-> Leverage ORM tools such as:
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/mongoose.png" width="48" height="48" alt="mongoose" />
-      </a>
-      <br>Mongoose
     </td>
   </tr>
 </table>
