@@ -1,7 +1,8 @@
-# Hi there, I'm Krishna M Shanbhag 👋
+# Hi there, 
+  I'm Krishna M Shanbhag 👋
 
 <p align="center">
-  <img src="Yellow & Black Simple Profile LinkedIn Banner.png" alt="Header Image" width="100%" />
+  <img src="https://github.com/Krishnams03/images/blob/main/Yellow%20&%20Black%20Simple%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Header Image" width="100%" />
 </p>
 I'm a Student Currently Pursueing by B.E 3rd year with 1 years of experience in Web Tools. I specialize in Front-End Web Development and am passionate about Learning And Collaborating And Explore New Age 
   Technologies.
