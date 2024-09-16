@@ -24,52 +24,57 @@
 <table>
   <tr>
   <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/C.png" width="48" height="48" alt="c" />
+      <a href="#Krishna">
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
+      <a href="#Krishna">
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/HTML.png" width="48" height="48" alt="HTML" />
+      <a href="#Krishna">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/CSS.png" width="48" height="48" alt="CSS" />
+      <a href="#Krishna">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/JS.png" width="48" height="48" alt="JavaScript" />
+      <a href="#Krishna">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Typescript.png" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
-    </td>
     <td align="center"  width="96">
-      <a href="#jimmy-ramani">
-        <img src="assets/Icons/Dart.png" width="48" height="48" alt="Dart" />
+      <a href="#Krishna">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
       </a>
-      <br>Dart
+      <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani" >
-        <img src="assets/Icons/Python.png" width="48" height="48" alt="Python" />
+      <a href="#Krishna" >
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#Krishna" >
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+      </a>
+      <br>Git
+    </td><td align="center" width="96">
+      <a href="#Krishna" >
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode"/>
+      </a>
+      <br>VS Code
     </td>
   </tr>
 </table>
@@ -81,43 +86,43 @@
 <table>
   <tr>
     <td align="center" width="96" margin="10">
-      <a href="#jimmy-ramani">
+      <a href="#Krishna">
         <img src="assets/Icons/React.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
+      <a href="#Krishna">
         <img src="assets/Icons/Flutter.png" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani" >
+      <a href="#Krishna" >
         <img src="assets/Icons/Sass.png" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
+      <a href="#Krishna">
         <img src="assets/Icons/Tailwind-CSS.png" width="48" height="48" alt="Tailwind-CSS" />
       </a>
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
+      <a href="#Krishna">
         <img src="assets/Icons/Ant-Design.png" width="48" height="48" alt="Ant-Design" />
       </a>
       <br>Ant Design
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani">
+      <a href="#Krishna">
         <img src="assets/Icons/Material-UI.png" width="48" height="48" alt="Material-UI" />
       </a>
       <br>Material UI
     </td>
     <td align="center" width="96">
-      <a href="#jimmy-ramani" >
+      <a href="#Krishna" >
         <img src="assets/Icons/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
