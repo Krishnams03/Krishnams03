@@ -1,11 +1,14 @@
 # Hi there, I'm Krishna M Shanbhag 👋
-<!-- Header Image -->
+
 <p align="center">
   <img src="Yellow & Black Simple Profile LinkedIn Banner.png" alt="Header Image" width="100%" />
-  I'm a Student Currently Pursueing by B.E 3rd year with 1 years of experience in Web Tools. I specialize in Front-End Web Development and am passionate about Learning And Collaborating And Explore New Age 
-  Technologies.
 </p>
+I'm a Student Currently Pursueing by B.E 3rd year with 1 years of experience in Web Tools. I specialize in Front-End Web Development and am passionate about Learning And Collaborating And Explore New Age 
+  Technologies.
 
+## Welcome to My GitHub Profile
+
+Hello! I'm [Your Name](https://github.com/yourusername). Welcome to my GitHub profile!
 
 ## 🎓 Education
 
