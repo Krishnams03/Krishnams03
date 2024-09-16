@@ -1,4 +1,4 @@
-<h1 align="center"><img width="100%" height="auto" src="https://github.com/Krishnams03/images/blob/main/Github%20Header.png?raw=true"></h1>
+<h1 align="center"><img width="100%" height="auto" src="https://github.com/Krishnams03/images/blob/main/White%20Minimalist%20Simple%20Aesthetic%20Name%20Twitter%20Header.png?raw=true"></h1>
 
 <h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 
