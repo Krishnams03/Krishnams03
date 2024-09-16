@@ -1,16 +1,11 @@
 <div style="position: relative; text-align: center; color: white;">
   <img src="https://github.com/Krishnams03/images/blob/main/Github%20Header.png?raw=true" alt="Header Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <h1 style="margin: 0; font-size: 2.5em; font-weight: bold;">Hello! I'm Krishna M Shanbhag 👋</h1>
-    <p style="font-size: 1.2em;">(https://github.com/yourusername). 
-      I'm a Student Currently Pursueing by B.E 3rd year with 1 years of experience in Web Tools. I specialize in Front-End Web Development and am passionate about Learning And Collaborating And Explore New Age 
+    <h1>Hello! I'm Krishna M Shanbhag 👋</h1>
+    <p>I'm a Student Currently Pursueing by B.E 3rd year with 1 years of experience in Web Tools. I specialize in Front-End Web Development and am passionate about Learning And Collaborating And Explore New Age 
       Technologies..</p>
   </div>
 </div>
-
-## Welcome to My GitHub Profile
-
-Hello! I'm [Your Name](https://github.com/yourusername). Welcome to my GitHub profile!
 
 ## 🎓 Education
 
