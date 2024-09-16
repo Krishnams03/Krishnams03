@@ -81,7 +81,7 @@
 
 ### Frontend 🎨
 
-> Specialize in Frontend technologies like:
+> I have Basic Knowledge in Frontend technologies like:
 
 <table>
   <tr>
@@ -90,12 +90,6 @@
         <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
       </a>
       <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#Krishna">
-        <img src="https://img.icons8.com/ios/50/000000/material-ui.png" alt="Material-UI" title="Material-UI"/>
-      </a>
-      <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#Krishna" >
@@ -123,7 +117,7 @@
 
 ## DevSetup 🖥️
 
-<img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=Git&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Android Studio-555555?style=flat-square&logo=android-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> <img src="https://img.shields.io/badge/PyCharm-555555.svg?&style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ-555555.svg?&style=flat-square&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Postman-555555.svg?&style=flat-square&logo=postman&logoColor=FF6C37"> <img src="https://img.shields.io/badge/CodePen-555555.svg?&style=flat-square&logo=codepen&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Canva-555555.svg?&style=flat-square&logo=canva&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=Git&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Android Studio-555555?style=flat-square&logo=android-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> <img src="https://img.shields.io/badge/PyCharm-555555.svg?&style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Canva-555555.svg?&style=flat-square&logo=canva&logoColor=white"> 
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
