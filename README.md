@@ -13,7 +13,7 @@
 - 💬 Ask me about anything tech related, Need tech insights? I am happy to help!
 
 ### 📬 Find me at :
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmyramani)  [![Medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jimmyramani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jimmyramani) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23302913/jimmy-ramani) [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.ramani0912@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()     [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)]() 
 
 
 ## 💻 Tech Stack :
