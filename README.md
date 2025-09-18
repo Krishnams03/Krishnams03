@@ -2,14 +2,19 @@
 
 <h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning+%26+Growing!" alt="Typing SVG" />
+</p>
+
 ## 👨🏼‍💻 About Me :
 
-- 👨‍💻 I'm on an exciting journey as a Full Stack Developer @ **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)**, where I bring creativity and innovation to the tech realm.
-- 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/krishna-modi-03). Check out my contributed articles.
-- 📙 Explore my **Resume** (link to be updated). Let's make it a page-turner!
-- 🚀 **Innovative Projects:** Creating something cool that adds value.
-- 📚 **Continuous Learning:** Always hungry for the next challenge.
-- 💬 Ask me about anything tech related. Need tech insights? I'm happy to help!
+- 🔭 I'm currently working as a **Full Stack Developer** @ **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)**
+- 🌱 I'm constantly learning and exploring new technologies
+- 👯 I'm looking to collaborate on innovative web and mobile applications
+- 🤔 I'm interested in **Problem Solving**, **Web Development**, and **Mobile App Development**
+- 💬 Ask me about **Web Development**, **Programming**, or any **Tech-related** topics
+- 📫 How to reach me: Connect with me on social media platforms below
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions!
 
 ### 📬 Find me at :
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-modi-03) [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
