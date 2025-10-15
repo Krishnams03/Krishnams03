@@ -1,111 +1,102 @@
 <div align="center">
-  <img src="https://github.com/Krishnams03/images/blob/main/White%20Minimalist%20Simple%20Aesthetic%20Name%20Twitter%20Header.png?raw=true" alt="Header Banner" width="100%"/>
+
+# 👋 Hi, I'm Krishna
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+<p align="center">
+  <em>Building innovative digital solutions with modern technologies</em>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krishnams03&color=blue&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Krishnams03?label=Followers&style=social)](https://github.com/Krishnams03)
+
 </div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Web+%26+App+Enthusiast;Tech+Innovator;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-  <p>
-    <em>Passionate tech enthusiast skilled in web and app development,<br/>with a focus on creating engaging and innovative digital experiences.</em>
-  </p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Krishnams03&color=blueviolet&style=flat-square&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/Krishnams03?label=Followers&style=social)](https://github.com/Krishnams03)
-  
-</div>
+## 💼 About Me
 
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```typescript
-const Krishna = {
-    role: "Full Stack Developer",
-    company: "Softrefine Technology Pvt Ltd.",
-    location: "India 🇮🇳",
-    code: ["JavaScript", "Python", "Java", "C++", "C"],
-    technologies: {
-        frontEnd: {
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            databases: ["MySQL"]
-        },
-        tools: ["Git", "VS Code", "Android Studio", "PyCharm"]
-    },
-    currentFocus: "Building innovative digital solutions",
-    funFact: "I debug with console.log() 🐛"
+```javascript
+const developer = {
+  name: "Krishna",
+  role: "Full Stack Developer",
+  company: "Softrefine Technology Pvt Ltd.",
+  location: "India 🇮🇳",
+  interests: ["Web Development", "App Development", "Innovation"],
+  currentFocus: "Building impactful digital solutions"
 };
 ```
 
-- 🔭 Currently working at **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)**
-- 🌱 Always learning and exploring new technologies
-- 💡 Love to create projects that solve real-world problems
-- 💬 Ask me about **Web Development, App Development, or anything tech**
-- 📫 Reach out for collaborations or just a tech chat!
+### What I Do
 
----
+🔭 **Work** — Full Stack Developer at [Softrefine Technology](https://softrefine.com/)  
+🌱 **Learn** — Always exploring new technologies and best practices  
+💡 **Create** — Building projects that solve real-world problems  
+💬 **Discuss** — Happy to talk about web dev, apps, or tech in general
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages & Core Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js&theme=dark" />
-</p>
+<div align="center">
 
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" />
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,pycharm,anaconda,linux,windows&theme=dark" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishnams03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnams03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnams03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnams03&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishnams03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnams03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnams03&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnams03&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
 </div>
 
----
+<br/>
+
+## 🌐 Let's Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnams03)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krishnams03)
+
+</div>
+
+<br/>
+
+<div align="center">
   
-  ### ⭐️ From [Krishnams03](https://github.com/Krishnams03) | Show some ❤️ by starring repositories!
+### 💙 Thanks for visiting! Feel free to explore my repositories and connect!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 </div>
