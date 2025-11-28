@@ -28,7 +28,7 @@ const developer = {
 
 ### What I Do
 
-🔭 **Student** — CyberSecurity Student in manipal Institue Of Technology
+🔭 **Student** — Masters In Cybersecurity at Manipal Institue Of Technology
 🌱 **Learn** — Always exploring new technologies and best practices  
 💡 **Create** — Building projects that solve real-world problems  
 💬 **Discuss** — Happy to talk about web dev, apps, or tech in general
