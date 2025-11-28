@@ -18,17 +18,17 @@
 ```javascript
 const developer = {
   name: "Krishna",
-  role: "Full Stack Developer",
-  company: "Softrefine Technology Pvt Ltd.",
+  Branch: "Cybersecurity",
+  College: "manipal Institute Of Technology",
   location: "India 🇮🇳",
-  interests: ["Web Development", "App Development", "Innovation"],
+  interests: ["Web Development", "App Development", "Cybersecurity"],
   currentFocus: "Building impactful digital solutions"
 };
 ```
 
 ### What I Do
 
-🔭 **Work** — Full Stack Developer at [Softrefine Technology](https://softrefine.com/)  
+🔭 **Student** — CyberSecurity Student in manipal Institue Of Technology
 🌱 **Learn** — Always exploring new technologies and best practices  
 💡 **Create** — Building projects that solve real-world problems  
 💬 **Discuss** — Happy to talk about web dev, apps, or tech in general
