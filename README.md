@@ -225,11 +225,12 @@ const krishna = {
 
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE (Optional: Set up GitHub Action to generate your own snake animation) -->
+<!-- To generate your own snake: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnams03/Krishnams03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnams03/Krishnams03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krishnams03/Krishnams03/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -262,8 +263,9 @@ const krishna = {
 
 <br><br>
 
-<!-- SPOTIFY MUSIC -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nqvqbj4gj5vu7c4yqvz7jqmkbi&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=667eea&bar_color_cover=false" alt="Spotify Playing" />
+<!-- SPOTIFY MUSIC (Optional: Replace with your own Spotify UID) -->
+<!-- Get your Spotify profile: https://spotify-github-profile.kittinanx.com/ -->
+<!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=667eea&bar_color_cover=false" alt="Spotify Playing" /> -->
 
 </div>
 
