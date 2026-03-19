@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER - CYBER GREEN/BLACK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Access%20Granted:%20Krishna&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Access%20Granted:%20Krishna&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20|%20Security%20Researcher&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- ANIMATED TYPING TEXT - SECURITY THEMED -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%3E+Initializing+secure+connection...;%3E+Access+Granted:+Cybersecurity+Enthusiast;%3E+Penetration+Tester+%7C+Security+Researcher)](https://git.io/typing-svg)
